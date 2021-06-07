@@ -1,6 +1,13 @@
 # food_delivery
 
-A new Flutter project.
+Food delivery Application ui/ux with database.<br/>
+This application supports In Android, web and IOS.
+
+# Have a Look
+
+https://user-images.githubusercontent.com/66123919/121067693-fdd70780-c7e8-11eb-84c7-e59250a0ccd8.mp4
+
+
 
 ## Getting Started
 
