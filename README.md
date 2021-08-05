@@ -1,4 +1,4 @@
-# food_delivery
+# food delivery application
 
 Food delivery Application ui/ux with database.<br/>
 This application supports In Android, web and IOS.
